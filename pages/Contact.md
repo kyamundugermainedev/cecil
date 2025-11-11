@@ -1,30 +1,30 @@
 # 📞 Contacts
 
-Merci de votre visite sur mon site !  
-Je suis **Grace vayisiriria**, développeur passionné par la technologie, la foi et les projets au service des communautés.
+Merci d'avoir visité mon site !  
+Je suis **Germaine Kyamundu**, développeuse passionnée par la technologie, la musique et les projets au service de mon entourage.
 
 N’hésitez pas à me contacter pour :
-- 💬 Discuter d’un projet ou d’une collaboration  
+- 💬 Discuter d’un projet
 - 🧑‍💻 Poser des questions sur mes travaux  
-- 🙏 Partager des idées liées à la gestion d’églises et à la technologie  
+- 🙏 Partager des idées liées à la gestion des groupes sociaux  
 
 ---
 
 ## 💌 Me contacter
 
-📧 **Email :** [christienmigheri@gmail.com](mailto:migherichristien@gmail.com)  
-🌐 **Site web :** [https://migherichristien.github.io/MIGHERIChristien/](https://migherichristien.github.io/MIGHERIChristien/)  
-🐙 **GitHub :** [https://github.com/migherichristien](https://github.com/migherichristien)  
+📧 **Email :** [choeursaintsylvestre@gmail.com](mailto:guzzolinnihoeur@gmail.com)  
+🌐 **Site web :** [https://choeursaintsylvestre.github.io/SAINTSYLVESTRE/](https://choeursaintsylvestre.github.io/SAINTSYLVESTRE/)  
+🐙 **GitHub :** [https://github.com/choeursaintsylvestre](https://github.com/choeursaintsylvestre)  
 
 ---
 
 ## 📍 À propos
-Je suis basé en République Démocratique du Congo 🇨🇩,  
-et je travaille sur divers projets visant à mettre la **technologie au service des paroisses et des communautés chrétiennes**.
+Je vis en République Démocratique du Congo 🇨🇩,  
+et je travaille sur divers projets visant à mettre la **technologie au service des chantres et des communautés chrétiennes**.
 
 ---
 
-> ✨ *“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”* — Christien Migheri
+> ✨ *“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”* — Choeursaintsylvestre
 ```markdown
 You can highlight `inline code` with backticks.
 ```

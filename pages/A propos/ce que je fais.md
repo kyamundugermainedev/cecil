@@ -7,9 +7,9 @@ layout: home
   <div class="container">
     <div class="hero-content">
       <div class="hero-text">
-        <span class="greeting">👋 Salut, moi c'est</span>
-        <h1><strong>Grace Vayisiriria</strong></h1>
-        <p class="tagline">Développeuse passionnée par la technologie, les projets innovants et le partage de connaissances.</p>
+        <span class="greeting">salut, je suis</span>
+        <h1><strong>Germaine kyamundu</strong></h1>
+        <p class="tagline">Développeuse passionnée par la technologie, les projets de valorisation des talents.</p>
         <div class="hero-buttons">
           <a href="#projets" class="btn btn-primary">Voir mes projets</a>
           <a href="#contact" class="btn btn-secondary">Me contacter</a>
@@ -29,7 +29,7 @@ layout: home
     <h2>À propos de moi</h2>
     <div class="about-content">
       <div class="about-text">
-        <p>Je suis un etudiant developpeur, passionnée par la création de solutions numériques innovantes. Mon parcours m'a permis de travailler sur divers projets allant du développement web aux applications mobiles.</p>
+        <p>Je suis une etudiante developpeuse, passionnée par la création de solutions pour la valorisation des talents. Mon parcours m'a permis de travailler sur des sites web pour les chantres.</p>
         
         <div class="skills">
           <h3>Compétences</h3>
@@ -101,19 +101,19 @@ layout: home
       <div class="value-card">
         <i class="fas fa-lightbulb"></i>
         <h3>Innovation</h3>
-        <p>Je cherche toujours à créer des solutions novatrices et efficaces.</p>
+        <p>Je cherche toujours à créer des solutions pour la valorisation des talents.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-hands-helping"></i>
         <h3>Collaboration</h3>
-        <p>Je crois en la force du travail d'équipe et du partage des connaissances.</p>
+        <p>Je crois au tavail d'ensemble et je suis ouverte aux idées des autres.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-code"></i>
         <h3>Qualité</h3>
-        <p>Je m'engage à livrer un code propre, maintenable et de haute qualité.</p>
+        <p>Je donnerai toujours un code propre clair et maintenable .</p>
       </div>
     </div>
   </div>
@@ -121,14 +121,14 @@ layout: home
 
 <section class="cta" id="contact">
   <div class="container">
-    <h2>Travaillons ensemble</h2>
-    <p>Vous avez un projet en tête ? N'hésitez pas à me contacter !</p>
+    <h2>To gether</h2>
+    <p>Tu as un talent viens decouvrir des solutions informatiques </p>
     <div class="cta-buttons">
-      <a href="mailto:grace@example.com" class="btn btn-primary">
+      <a href="mailto:germaine@example.com" class="btn btn-primary">
         <i class="fas fa-envelope"></i>
         M'envoyer un email
       </a>
-      <a href="https://github.com/gracevayisiriria" class="btn btn-secondary" target="_blank">
+      <a href="https://github.com/germainekyamundu" class="btn btn-secondary" target="_blank">
         <i class="fab fa-github"></i>
         Voir mon GitHub
       </a>
